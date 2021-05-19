@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15845" started-at="2021-01-28T18:47:53 EST" finished-at="2021-01-28T18:48:09 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15845" started-at="2021-01-28T18:47:53 EST" finished-at="2021-01-28T18:48:09 EST">
+      <class name="Testcase.TestCase1">
+        <test-method status="PASS" signature="propLoad()[pri:0, instance:Testcase.TestCase1@51cdd8a]" name="propLoad" is-config="true" duration-ms="16" started-at="2021-01-28T18:47:53 EST" finished-at="2021-01-28T18:47:53 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propLoad -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testcase.TestCase1@51cdd8a]" name="setup" is-config="true" duration-ms="12097" started-at="2021-01-28T18:47:53 EST" finished-at="2021-01-28T18:48:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC1()[pri:0, instance:Testcase.TestCase1@51cdd8a]" name="TC1" duration-ms="3107" started-at="2021-01-28T18:48:05 EST" finished-at="2021-01-28T18:48:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testcase.TestCase1@51cdd8a]" name="teardown" is-config="true" duration-ms="557" started-at="2021-01-28T18:48:08 EST" finished-at="2021-01-28T18:48:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcase.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
